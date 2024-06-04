@@ -2,7 +2,7 @@ var $window = $(window)
 var helppres = $('#help pre')
 jQuery.fn.reverse = [].reverse
 
-// a list of colors to use for the lines
+// a list of colors
 var colors = [
   '#EF5350',
   '#F2711C',
